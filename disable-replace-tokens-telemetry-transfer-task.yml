@@ -1,0 +1,7 @@
+steps:
+- task: PowerShell@2
+  displayName: 'Disable Telemetry transfer in Azure Devops Extension Replace'
+  inputs:
+    targetType: 'inline'
+    script: |
+      Write-Host "##vso[task.setvariable variable=REPLACETOKENS_DISABLE_TELEMETRY;]$True"
