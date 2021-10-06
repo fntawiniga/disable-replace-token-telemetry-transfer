@@ -1,3 +1,5 @@
+![Icon](images/extension-icon.png)
+
 # Disable Replace Tokens Telemetry Transfer
 
 # Context
