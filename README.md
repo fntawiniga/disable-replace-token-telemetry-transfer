@@ -82,7 +82,7 @@ To use the extension, it must be installed to an organization in Azure DevOps. I
 5. Select Get it free to start the installation process. Select the organization you shared the extension with from the dropdown menu.
 6. Select Install.
 
-## Check the extension installation
+## Check for the extension installation
 
 The extension contributed a view named "My Hub" to the project-level Code area. Let's navigate to it.
 
