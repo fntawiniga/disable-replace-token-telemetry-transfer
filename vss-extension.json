@@ -3,7 +3,7 @@
     "id": "disablereplacetokenstelemetrytransfer",
     "name": "Disable Replace Token telemetry transfer - Azure Pipeline Extension - Build & Release Pipelines Decorator PRE",
     "version": "1.0.0",
-    "publisher": "fntawiniga",
+    "publisher": "PUT-THE-PUBLISHER-ID-HERE",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
